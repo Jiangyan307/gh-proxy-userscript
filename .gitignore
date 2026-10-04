@@ -1,0 +1,15 @@
+# 依赖 / 本地产物
+node_modules/
+*.log
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 不要把任何本地路径、配置或个人数据放进来
+*.local
+*.bak
+.env
